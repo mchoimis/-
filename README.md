@@ -1,2 +1,2 @@
-# shc
-This is an individual repo for work-related project
+# sdii-shcard
+This is an individual repo for work-related stuff
